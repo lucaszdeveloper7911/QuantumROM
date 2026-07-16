@@ -85,7 +85,7 @@ MISC_SERVICES=(
 "SwiftkeyIme" "SwiftkeySetting"
 "TADownloader" "TaPackAuthFw"
 "UltraDataSaving_O" "Upday"
-"YourPhone_P1_5" "DsmsAPK"
+"DsmsAPK"
 "vexfwk_service" "VexScanner"
 "MyGalaxyService"
 )
